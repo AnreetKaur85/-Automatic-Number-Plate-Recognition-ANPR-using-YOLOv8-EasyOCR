@@ -9,7 +9,7 @@ An end-to-end solution for detecting and reading vehicle number plates in video 
  🎥 Video frame processing and real-time display in Jupyter Notebook
  💾 Save annotated video output (`.avi`)
 
-🧠 Model Information
+## 🧠 Model Information
 
 Model used: license_plate.pt (YOLOv8 format)
 
@@ -17,7 +17,7 @@ Model used: license_plate.pt (YOLOv8 format)
 
 ● Alternatively, test with a default YOLOv8 model: yolov8n.pt (not optimized for platees)
 
-📈 Future Enhancements 
+## 📈 Future Enhancements 
 
  Add CSV export of detected plate numbers
 
@@ -27,7 +27,7 @@ Model used: license_plate.pt (YOLOv8 format)
 
  Add region-specific number plate formatting filters
 
- 🙌 Acknowledgements
+## 🙌 Acknowledgements
    
   ● [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
 
