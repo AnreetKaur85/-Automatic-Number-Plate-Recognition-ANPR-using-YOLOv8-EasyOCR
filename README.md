@@ -27,6 +27,11 @@ Model used: license_plate.pt (YOLOv8 format)
 
  Add region-specific number plate formatting filters
 
+ 🙌 Acknowledgements
+   
+  ● [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
+
+  ● [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 
 
 
